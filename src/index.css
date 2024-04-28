@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family:font;
+  src: url("https://fonts.googleapis.com/css2?family=Roboto&display=swap")
+}
